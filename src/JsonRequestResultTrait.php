@@ -42,7 +42,7 @@ trait JsonRequestResultTrait
         }
 
         /** @var mixed $decoded */
-        $decoded = json_decode($this->responseBody, true);
+        $decoded = \json_decode($this->responseBody, true);
 
         if (is_array($decoded)) {
             $this->json = $decoded;
