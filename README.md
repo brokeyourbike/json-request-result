@@ -6,7 +6,7 @@
 
 [![ci](https://github.com/brokeyourbike/json-request-result-php/actions/workflows/ci.yml/badge.svg)](https://github.com/brokeyourbike/json-request-result-php/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/brokeyourbike/json-request-result-php/branch/main/graph/badge.svg?token=ImcgnxzGfc)](https://codecov.io/gh/brokeyourbike/json-request-result-php)
-[![Type Coverage](https://shepherd.dev/github/brokeyourbike/json-request-result-php/coverage.svg)](https://shepherd.dev/github/brokeyourbike/json-request-result-php)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a1f7d2769e5f738c8c2a/maintainability)](https://codeclimate.com/github/brokeyourbike/json-request-result-php/maintainability)
 
 Interface and trait for JSON responses
 
