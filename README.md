@@ -1,12 +1,12 @@
 # json-request-result
 
-[![Latest Stable Version](https://img.shields.io/github/v/release/brokeyourbike/json-request-result)](https://github.com/brokeyourbike/json-request-result/releases)
-[![Total Downloads](https://poser.pugx.org/brokeyourbike/json-request-result/downloads)](https://packagist.org/packages/brokeyourbike/json-request-result)
-[![License: MPL-2.0](https://img.shields.io/badge/license-MPL--2.0-purple.svg)](https://github.com/brokeyourbike/json-request-result/blob/main/LICENSE)
+[![Latest Stable Version](https://img.shields.io/github/v/release/brokeyourbike/json-request-result-php)](https://github.com/brokeyourbike/json-request-result-php/releases)
+[![Total Downloads](https://poser.pugx.org/brokeyourbike/json-request-result-php/downloads)](https://packagist.org/packages/brokeyourbike/json-request-result-php)
+[![License: MPL-2.0](https://img.shields.io/badge/license-MPL--2.0-purple.svg)](https://github.com/brokeyourbike/json-request-result-php/blob/main/LICENSE)
 
-[![ci](https://github.com/brokeyourbike/json-request-result/actions/workflows/ci.yml/badge.svg)](https://github.com/brokeyourbike/json-request-result/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/brokeyourbike/json-request-result/branch/main/graph/badge.svg?token=ImcgnxzGfc)](https://codecov.io/gh/brokeyourbike/json-request-result)
-[![Type Coverage](https://shepherd.dev/github/brokeyourbike/json-request-result/coverage.svg)](https://shepherd.dev/github/brokeyourbike/json-request-result)
+[![ci](https://github.com/brokeyourbike/json-request-result-php/actions/workflows/ci.yml/badge.svg)](https://github.com/brokeyourbike/json-request-result-php/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/brokeyourbike/json-request-result-php/branch/main/graph/badge.svg?token=ImcgnxzGfc)](https://codecov.io/gh/brokeyourbike/json-request-result-php)
+[![Type Coverage](https://shepherd.dev/github/brokeyourbike/json-request-result-php/coverage.svg)](https://shepherd.dev/github/brokeyourbike/json-request-result-php)
 
 Interface and trait for JSON responses
 
@@ -36,4 +36,4 @@ class Result implements JsonRequestResultInterface
 ```
 
 ## License
-[Mozilla Public License v2.0](https://github.com/brokeyourbike/json-request-result/blob/main/LICENSE)
+[Mozilla Public License v2.0](https://github.com/brokeyourbike/json-request-result-php/blob/main/LICENSE)
