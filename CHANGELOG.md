@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://www.github.com/brokeyourbike/json-request-result-php/compare/v1.0.2...v1.0.3) (2023-05-20)
+
+
+### Miscellaneous Chores
+
+* button ([ff6de82](https://www.github.com/brokeyourbike/json-request-result-php/commit/ff6de824d372a1760a9752da5b29220b3c532d88))
+
 ### [1.0.2](https://www.github.com/brokeyourbike/json-request-result-php/compare/v1.0.1...v1.0.2) (2023-05-14)
 
 
